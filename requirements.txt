@@ -1,0 +1,7 @@
+keras==2.8.0
+matplotlib==3.5.1
+numpy==1.22.2
+opencv_python==4.2.0.32
+Pillow==9.0.1
+streamlit==1.7.0
+tensorflow==2.8.0
