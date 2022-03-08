@@ -8,7 +8,7 @@ import os
 from pickle import dump, load
 import numpy as np
 from tensorflow.keras.applications import ResNet50
-from keras.models import Model,load_model
+from tensorflow.keras.models import Model,load_model
 import cv2
 from tensorflow import saved_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
