@@ -8,7 +8,7 @@ RUN python -m pip install --upgrade setuptools pip wheel
 RUN pip3 install -r requirements.txt
 
 
-EXPOSE 8501
+EXPOSE 80
 
 COPY . /app
 
