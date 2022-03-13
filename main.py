@@ -15,7 +15,7 @@ if uploaded_file is not None:
     opencv_image=cv2.cvtColor(opencv_image,cv2.COLOR_BGR2RGB)
     col1, col2, col3 = st.columns(3)
     with col1:
-        st.image(opencv_image, caption='Uploaded Image.', use_column_width=False,clamp=True,)
+        st.image(opencv_image, caption='Uploaded Image.', use_column_width=True,clamp=True,)
     with col2:
         pass
     with col3:
