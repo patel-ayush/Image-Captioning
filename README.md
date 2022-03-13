@@ -1,18 +1,18 @@
-# Image Captioning
+## Image Captioning
 Image Captioning is an encoder decoder mode based on sequence to sequence learning. It takes a image as input and generates a caption describing the event in the image.
 
-# Demo
+## Demo
 
-# Dataset
+## Dataset
 
-# Model
-## Architecture
+## Model
+### Architecture
 
-## Loss
+### Loss
 
-## Metric
+### Metric
 
-# Applications of Image Captioning
+## Applications of Image Captioning
 
 * *Probably, will be useful in cases/fields where text is most used and with the use of this, you can infer/generate text from images. As in, use the information directly from any 
 particular image in a textual format automatically.*
