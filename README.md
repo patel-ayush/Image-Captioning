@@ -9,9 +9,8 @@ This project is build on the Flickr8K dataset consisting of 8,000 images that ar
 ## Model
 ### Architecture
 ![](my_model.png)
-### Loss
-
-### Metric
+* **Loss : Categorical Crossentropy**
+* **Metric :Accuracy**
 
 ## Applications of Image Captioning
 
