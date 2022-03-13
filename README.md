@@ -4,6 +4,7 @@ Image Captioning is an encoder decoder mode based on sequence to sequence learni
 ## Demo
 
 ## Dataset
+This project is build on the Flickr8K dataset consisting of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events. The images were chosen from six different Flickr groups, and tend not to contain any well-known people or locations, but were manually selected to depict a variety of scenes and situations
 
 ## Model
 ### Architecture
