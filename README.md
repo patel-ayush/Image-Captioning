@@ -24,3 +24,15 @@ particular image in a textual format automatically.*
 * *Would serve as a huge help for visually impaired people. Lots of applications can be developed in that space.*
 
 * *Social Media Platforms like facebook can infer directly from the image, where you are ( beach, cafe etc), what you wear (color) and more importantly what you’re doing also (in a way). See an example to understand it better.*
+
+<h3 id="Performance">Performance of Model on testing data</h3>
+<table>
+ <tr>
+  <th>Image</th>
+ <th>Caption(Time taken)</th>
+ </tr>
+<tr>
+ <td><img src="images/qeKX-N1nKiM_0_5.gif" width="320px"/></td>
+ <td>a woman is seasoning some food(22.05s)</td>
+<td>a woman is seasoning some food(0.70s)</td>
+ </tr>
