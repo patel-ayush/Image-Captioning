@@ -34,5 +34,5 @@ particular image in a textual format automatically.*
 <tr>
  <td><img src="images/qeKX-N1nKiM_0_5.gif" width="320px"/></td>
  <td>a woman is seasoning some food(22.05s)</td>
-<td>a woman is seasoning some food(0.70s)</td>
+
  </tr>
