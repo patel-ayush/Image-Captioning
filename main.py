@@ -18,7 +18,7 @@ if uploaded_file is not None:
         st.image(opencv_image, caption='Uploaded Image.', use_column_width=True,clamp=True,)
     with col2:
         st.markdown(f"<center><b style='text-align: center;font-family:Brush Script MT, cursive;font-size: 25px;'>Here in your caption :</b></center>", unsafe_allow_html=True)
-        gif_runner = st.image("ic_load_1.gif")
+        gif_runner = st.image("extra/ic_load_1.gif")
         st.markdown(f"<center><b style='text-align: center;font-family:Brush Script MT, cursive;font-size: 25px;color:MediumSeaGreen'>\"{predict(opencv_image)}\" </b><br></center>", unsafe_allow_html=True)
         gif_runner.empty()
 
