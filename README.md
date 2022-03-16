@@ -29,10 +29,17 @@ particular image in a textual format automatically.*
 <table>
  <tr>
   <th>Image</th>
- <th>Caption(Time taken)</th>
+ <th>Caption</th>
  </tr>
 <tr>
- <td><img src="images/qeKX-N1nKiM_0_5.gif" width="320px"/></td>
- <td>a woman is seasoning some food(22.05s)</td>
-
+ <td><img src="test_images/mountain.jpg" width="320px"/></td>
+ <td>man is climbing rocky hill on top of large rock mountain</td>
+</tr>
+<tr>
+ <td><img src="test_images/beach.jpg" width="320px"/></td>
+ <td> boy and girl are playing on the beach</td>
  </tr>
+<tr>
+ <td><img src="test_images/sunset.jpg" width="320px"/></td>
+ <td>group of people sit on rocky path</td>
+</tr>
