@@ -1,5 +1,5 @@
 ## Image Captioning
-Image Captioning is an encoder decoder mode based on sequence to sequence learning. It takes a image as input and generates a caption describing the event in the image.
+This is an encoder decoder mode based on sequence to sequence learning. It takes a image as input and generates a caption describing the event in the image.
 
 ## Demo
 ![](demo.gif)
